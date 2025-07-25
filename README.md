@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### Sophomore @ ASU’s Ira A. Fulton Schools of Engineering
+#### Sophomore @ Arizona State University
 
 - 📚 Computer Science & Mathematics (Statistics) Major
 - 💼 Interested in the intersection of **Finance**, **Data**, and **Machine Learning**
