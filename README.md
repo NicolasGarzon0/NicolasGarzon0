@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### Sophomore @ Arizona State University
+#### Junior @ Arizona State University
 
 - 📚 Computer Science & Mathematics Double Major
 - ⚙️ Tech I Use: `Python`, `Java`, `C++`, `JavaScript`, `SQL`, `CSS/HTML`
