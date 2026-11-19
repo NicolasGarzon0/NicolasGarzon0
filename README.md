@@ -1,6 +1,6 @@
 ### Hi, I'm Nicolas 👋
 
-Interested in the interesection of finance and technology.
+Interested in the intersection of finance and technology.
 
 ### Hackathons
 - 🏆 [Proof](https://github.com/sinhashivani/NexHacks), NexHacks 1.0, Carnegie Mellon University (Polymarket Track, 2nd Place): Chrome extension that surfaces prediction market insights and recommends trades.
