@@ -13,5 +13,5 @@ Interested in the interesection of finance and technology.
 - [Loan Approval Prediction Model](https://github.com/NicolasGarzon0/LoanApprovalPredictionModel): End to end ML pipeline for loan approval prediction.
 
 ### Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+- [LinkedIn](https://www.linkedin.com/in/nicolasgarzonc)
 - [Email](mailto:nicolasmateogarzoncobos@gmail.com)
