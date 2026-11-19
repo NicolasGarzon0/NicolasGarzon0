@@ -3,11 +3,11 @@
 Interested in the intersection of finance and technology.
 
 ### Hackathons
-- **[Proof](https://github.com/sinhashivani/NexHacks)** 🏆 *2nd Place, Polymarket Track, NexHacks 1.0 (Carnegie Mellon)* \
+- **[Proof](https://github.com/sinhashivani/NexHacks)** 🏆 *2nd Place, Polymarket Track, NexHacks 1.0* \
 Chrome extension that surfaces prediction market insights and recommends trades.
-- **[Sentinel](https://github.com/nivang/Sentinel)** *Coinbase Track, CalHacks 13.0 (San Francisco)* \
+- **[Sentinel](https://github.com/nivang/Sentinel)** *Coinbase Track, CalHacks 13.0* \
 MCP server that enables purchases and prevents injection attacks using the x402 protocol.
-- **[TextBet](https://github.com/NicolasGarzon0/sunhacks-9-0)** *Solana Track, SunHacks 9.0 (Arizona State University)* \
+- **[TextBet](https://github.com/NicolasGarzon0/sunhacks-9-0)** *Solana Track, SunHacks 9.0* \
 AI agent that creates betting markets.
 
 ### Personal Projects
